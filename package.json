@@ -1,0 +1,15 @@
+{
+  "name": "docker-node-setup",
+  "version": "1.0.0",
+  "description": "This repository contains a starter project for setting up a Node.js application with Docker. It includes a basic HTTP server, a `Dockerfile` for containerization, and an optional `docker-compose.yml` file for simplified container management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
